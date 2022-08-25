@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,LA: Warner 
+#EXTINF:-1,LA: Warner
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/341_.m3u8?token=mL6o198uy3SnW4Tb7sz1fw&expires=1661473709&ip=138.185.139.197
+#EXTINF:-1,LA: htv
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/89_.m3u8?token=YvGSfw77EE21HWA0Vv54ZA&expires=1661476174&ip=138.185.139.197
