@@ -22,3 +22,5 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=Ohq558KLmmzez
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=8hUluVakjyR3NuTcELwhVA&expires=1661492744&ip=138.185.139.197
 #EXTINF:-1,LA: Golden Plus
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=EPzin8HmEU2xP3WUZybowg&expires=1661492928&ip=138.185.139.197
+#EXTINF:-1, group title="peliculas", Liga de super mascotas
+https://delivery-node-layth.voe-network.net/hls/6oarmmg43e23cszcr2g433lxxqmw65iy6xpkytopvdiencimclnwzmgfnzqa/index-v1-a1.m3u8
