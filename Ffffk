@@ -26,3 +26,5 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=EPzin8HmEU2xP
 https://delivery-node-waqqas.voe-network.net/hls/6oarn5w43e23cszcr2g43ptr52rwj7kjosu5xjihqxwbwlhqppt3o4xiahpa/index-v1-a1.m3u8
 #EXTINF:-1, group title="peliculas", La ciudad perdida
 https://delivery413.akamai-cdn-content.com/hls2/01/05260/v2ijg961na2k_l/index-v1-a1.m3u8?t=bQjLTOj6CT89khiYb6-se1EL07LIn3XohMNnU5H7QZQ&s=1661543421&e=10800&f=26303236&srv=sto120&client=45.71.200.247
+#EXTINF:-1, group title="peliculas", Hera del hielo
+https://delivery415.akamai-cdn-content.com/hls2/01/03714/epqlft9rfvye_n/index-v1-a1.m3u8?t=7wVDhREJBQZkUtV8jwgPQ1wBSTX7niGMO0cJpDOWB28&s=1661554416&e=10800&f=18582145&srv=sto019&client=138.185.139.197
